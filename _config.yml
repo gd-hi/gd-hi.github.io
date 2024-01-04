@@ -1,9 +1,5 @@
 # The Site Configuration
 
-#include
-include:
- - _javascript
-
 # Import the theme
 theme: jekyll-theme-chirpy
 
@@ -23,7 +19,7 @@ title: gdhi's DEV BLOG # the main title
 tagline: 네 마음은 네 마음, 내 마음은 내 마음 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  istp
+  ISTP
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
